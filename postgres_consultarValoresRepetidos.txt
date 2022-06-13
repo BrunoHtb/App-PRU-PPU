@@ -1,0 +1,1 @@
+SELECT * FROM tb_dispositivosdeseguranca WHERE (SELECT count(*) FROM tb_dispositivosdeseguranca temp_table WHERE tb_dispositivosdeseguranca.codigo = temp_table.codigo) > 1 ORDER BY codigo desc;

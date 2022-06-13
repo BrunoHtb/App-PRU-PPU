@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:control="clr-namespace:Xamarin.Forms.MaskedEntry;assembly=Xamarin.Forms.MaskedEntry"
+             Title="Cadastro de PRU"
+             Padding="10"
+             x:Class="rodovias.Pages.PaginaCadastroNovoPRU"
+             NavigationPage.HasBackButton="False" >
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.4*" />
+                    <!-- 0 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 1 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 2 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 3 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 4 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 5 -->
+                    <RowDefinition Height="0.4*" />
+                    <!-- 6 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 7 -->
+                    <RowDefinition Height="0.4*" />
+                    <!-- 8 -->
+                    <RowDefinition Height="0.5*" />
+                    <!-- 9 -->
+                    <RowDefinition Height="0.5*" />
+                    <!-- 10 -->
+                    <RowDefinition Height="0.7*" />
+                    <!-- 11 -->
+                    <RowDefinition Height="0.3*" />
+                    <!-- 12 -->
+                    <RowDefinition Height="0.5*" />
+                    <!-- 13 -->
+                </Grid.RowDefinitions>
+
+                <!-- Preencher com Rodovia - OBS: Tentar ver com a Larissa se já existe uma lista com todas as rodovias que vão ser cadastradas -->
+                <Grid Grid.Row="0" Margin="0, 10, 0, 0" Padding="10">
+                    <Label Grid.Column="0" Grid.Row="0" Text="Rodovia *" FontAttributes="Bold" VerticalOptions="End" />
+                    <Entry Grid.Column="0" Grid.Row="1" Placeholder="Rodovia" x:Name="Rodovia" Completed="EntryRodovia"  ReturnType="Next" />
+
+                    <Label  Grid.Column="1" Grid.Row="0" Text="DR *" FontAttributes="Bold" VerticalOptions="End" />
+                    <Picker Grid.Column="1" Grid.Row="1" Title="DR" SelectedIndexChanged="PckDER" x:Name="DER" >
+                        <Picker.Items>
+                            <x:String>1</x:String>
+                            <x:String>2</x:String>
+                            <x:String>3</x:String>
+                            <x:String>4</x:String>
+                            <x:String>5</x:String>
+                            <x:String>6</x:String>
+                            <x:String>10</x:String>
+                            <x:String>13</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Grid>
+
+                <!-- Preencher com Sentido e Lado da Pista - Dar Opções para o usuário selecionar -->
+                <StackLayout Grid.Row="1" Padding="10" Margin="0, 10, 0, 0">
+                    <Label Grid.Row="0" Text="Sentido *" FontAttributes="Bold" VerticalOptions="End" />
+                    <Picker Grid.Row="1" Title="Sentido" SelectedIndexChanged="PckSentido" x:Name="Sentido">
+                        <Picker.Items>
+                            <x:String>CRESCENTE</x:String>
+                            <x:String>DECRESCENTE</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" Padding="10"  Margin="0, 0, 0, 0" >
+                    <Label Grid.Row="0" Text="Lado da Pista *" FontAttributes="Bold" VerticalOptions="End" />
+                    <Picker Grid.Row="1" Title="Lado da Pista" SelectedIndexChanged="PckLadoDaPista" x:Name="LadoDaPista">
+                        <Picker.Items>
+                            <x:String>DIREITO</x:String>
+                            <x:String>ESQUERDO</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <!-- Preencher com Presença de sinalização Vertical  -->
+                <StackLayout Grid.Row="3" Padding="10">
+                    <Label Grid.Row="0" Grid.Column="0" Text="Presença de Sinalização Vertical" FontAttributes="Bold" />
+                    <Picker Grid.Row="1" Grid.Column="0" Title="Sinalização Vertical" SelectedIndexChanged="PckSinalizacaoVertical" x:Name="SinalizacaoVertical">
+                        <Picker.Items>
+                            <x:String>SIM</x:String>
+                            <x:String>NÃO</x:String>
+                            <x:String>PARCIAL LADO DIREITO</x:String>
+                            <x:String>PARICAL LADO ESQUERDO</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <!-- Preencher com Atendimento as Normas -->
+                <StackLayout Grid.Row="4" Padding="10">
+                    <Label Grid.Row="0" Grid.Column="1" Text="Atendimento a Norma" FontAttributes="Bold" />
+                    <Picker Grid.Row="1" Grid.Column="1" Title="Norma" SelectedIndexChanged="PckAtendimentoNorma" x:Name="AtendimentoNorma" >
+                        <Picker.Items>
+                            <x:String>E1 - APROVADO NORMA</x:String>
+                            <x:String>E2 - REPROVADO NORMA</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <!-- Preencher com Atendimento as Normas -->
+                <StackLayout Grid.Row="5" Padding="10">
+                    <Label Grid.Row="0" Grid.Column="1" Text="Tipo de Faixa" FontAttributes="Bold" />
+                    <Picker Grid.Row="1" Grid.Column="1" Title="Faixa" SelectedIndexChanged="PckTipoFaixa" x:Name="TipoFaixa" >
+                        <Picker.Items>
+                            <x:String>DUPLA CONTÍNUA</x:String>
+                            <x:String>DUPLA CONTÍNUA/SECCIONADA</x:String>
+                            <x:String>DUPLA SECCIONADA</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <!-- Preencher com KM Inicio e Fim  - Peenchimento Manual usando ENTRY -->
+                <Grid Grid.Row="6" Padding="10" Margin="0, 0, 0, 0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Label Grid.Column="0" Grid.Row="0" Text="KM Inicial" FontAttributes="Bold" VerticalOptions="End" />
+                    <control:MaskedEntry Grid.Column="0" Grid.Row="1" Placeholder="KM Inicial" Mask="XXX+XXX" Keyboard="Numeric" ReturnType="Next" Completed="EntryKmInicio" x:Name="KmInicio" />
+
+                    <Label Grid.Column="1" Grid.Row="0" Text="KM Final" FontAttributes="Bold" VerticalOptions="End" />
+                    <control:MaskedEntry Grid.Column="1" Grid.Row="1" Placeholder="KM Final" Mask="XXX+XXX" Keyboard="Numeric" ReturnType="Next" Completed="EntryKmFinal" x:Name="KmFinal" />
+                </Grid>
+
+                <!-- Preencher com Estado de Conservação - Dar Opções para o usuário selecionar -->
+                <StackLayout Grid.Row="7" Padding="10">
+                    <Label Grid.Row="0" Text="Estado de Conservação" FontAttributes="Bold" VerticalOptions="End" />
+                    <Picker Grid.Row="1" Title="Estado de Conservação" SelectedIndexChanged="PckEstadoDeConservacao" x:Name="EstadoConservacao">
+                        <Picker.Items>
+                            <x:String>C1 - BOM ESTADO</x:String>
+                            <x:String>C2 - MAL ESTADO</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <!-- Preencher com Observação - Dar Opções para o usuário Escrever -->
+                <StackLayout Grid.Row="8" Padding="10">
+                    <Label Grid.Row="0" Text="Observação" FontAttributes="Bold" VerticalOptions="End" />
+                    <Entry Grid.Row="1" Placeholder="Observações" x:Name="Observacao" Completed="EntryObservacao" ReturnType="Next" />
+                </StackLayout>
+
+                <!-- Pegar as Coordenadas Iniciais -->
+                <Grid Grid.Row="9" BackgroundColor="#b8cad4" Padding="10" Margin="0, 0, 0, 20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.3*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" x:Name="lbLatitudeInicio" Text="Latitude: " VerticalOptions="Center" FontSize="14" FontAttributes="Bold" />
+                    <Entry Grid.Row="0" Grid.Column="1" Placeholder=" " x:Name="LatitudeInicial" Completed="EntryLatitudeInicial" ReturnType="Next" Keyboard="Numeric" />
+                    <Label Grid.Row="1" Grid.Column="0" x:Name="lbLongitudeInicio" Text="Longitude: " VerticalOptions="Center" FontSize="14" FontAttributes="Bold" />
+                    <Entry Grid.Row="1" Grid.Column="1" Placeholder="" x:Name="LongitudeInicial" Completed="EntryLongitudeInicial" ReturnType="Next" Keyboard="Numeric" />
+                    
+                    <Button Grid.Row="2"  Grid.ColumnSpan="2" Text="Coordenada Inicial" Clicked="GetCoordenadasInicio" BackgroundColor="#3b4043" TextColor="White" />
+                </Grid>
+
+                <!-- Pegar as Coordenadas Finais -->
+                <Grid Grid.Row="10" BackgroundColor="#b8cad4" Padding="10"  Margin="0, 20, 0, 0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.3*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" x:Name="lbLatitudeFim" Text="Latitude: " VerticalOptions="Center" FontSize="14" FontAttributes="Bold" />
+                    <Entry Grid.Row="0" Grid.Column="1" Placeholder=" " x:Name="LatitudeFinal" Completed="EntryLatitudeFinal" ReturnType="Next" Keyboard="Numeric" />
+                    <Label Grid.Row="1" Grid.Column="0" x:Name="lbLongitudeFim" Text="Longitude: " VerticalOptions="Center" FontSize="14" FontAttributes="Bold" />
+                    <Entry Grid.Row="1" Grid.Column="1" Placeholder="" x:Name="LongitudeFinal" Completed="EntryLongitudeFinal" ReturnType="Next" Keyboard="Numeric" />
+                    
+                    <Button Grid.Row="2"  Grid.ColumnSpan="2" Text="Coordenada Final" Clicked="GetCoordenadasFinal" BackgroundColor="#3b4043" TextColor="White" />
+                </Grid>
+
+                <!-- Tirar foto -->
+                <Grid Grid.Row="11" Padding="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.1*" />
+                        <RowDefinition Height="0.8*" />
+                        <RowDefinition Height="0.1*" />
+                    </Grid.RowDefinitions>
+                    <Button Grid.Row="1" Grid.Column="0" Text="Foto Panorâmica" FontSize="13" FontAttributes="Bold" CornerRadius="20" Clicked="BtnFotoPanoramica" x:Name="FotoPanoramica"/>
+                    <Button Grid.Row="1" Grid.Column="1" Text="Foto Detalhe 1" FontSize="14" FontAttributes="Bold" CornerRadius="20" Clicked="BtnFotoDetalhe1" x:Name="FotoDetalhe1" />
+                    <Button Grid.Row="1" Grid.Column="2" Text="Foto Detalhe 2" FontSize="14" FontAttributes="Bold" CornerRadius="20" Clicked="BtnFotoDetalhe2" x:Name="FotoDetalhe2" />
+                </Grid>
+
+                <Grid Grid.Row="12" Padding="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*" />
+                    </Grid.RowDefinitions>
+                    <Label Text="Nome/Código do elemento" Grid.Row="0" FontAttributes="Bold" FontSize="15" TextColor="Black" VerticalTextAlignment="Center"/>
+
+                    <Entry Grid.Row="1" Placeholder="Nome do elemento" x:Name="EntryCodigoElemento" IsReadOnly="True" TextColor="Black" FontAttributes="Bold" PlaceholderColor="Black" FontSize="16" VerticalOptions="Start" />
+                </Grid>
+
+                <!--- Salvar e Limpar campos -->
+                <Grid Grid.Row="13" Padding="10" Margin="0, 0, 10, 0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.1*" />
+                        <RowDefinition Height="0.8*" />
+                        <RowDefinition Height="0.1*" />
+                    </Grid.RowDefinitions>
+                    <Button Grid.Row="1" Grid.Column="0" Text="Salvar" CornerRadius="20" Clicked="BtnSalvarDados" BackgroundColor="#7ea310" FontSize="14" TextColor="White" FontAttributes="Bold" ImageSource="@drawable/disk.png" />
+                    <Button Grid.Row="1" Grid.Column="1" Text="Limpar" CornerRadius="20" Clicked="BtnLimparDados" BackgroundColor="#0099FF" FontSize="14" TextColor="White" FontAttributes="Bold" ImageSource="@drawable/eraser.png" />
+                    <Button Grid.Row="1" Grid.Column="2" Text="Cancelar" CornerRadius="20" Clicked="BtnCancelarCadastro" BackgroundColor="#e24c4b" FontSize="10" TextColor="White" FontAttributes="Bold" ImageSource="@drawable/cancel.png" />
+                </Grid>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="rodovias.Pages.PaginaPRURelacao"
+             Title="Elementos PRU"
+             IconImageSource="@drawable/PRU.png"          
+             NavigationPage.HasBackButton="False">
+    <ContentPage.ToolbarItems>
+       <!-- <ToolbarItem Name="OI"/> -->
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" 
+					 Spacing="0"
+					 Margin="0">
+
+            <Label Text="*ATENÇÃO* MANTENHA A FUNÇÃO GPS DO DISPOSITIVO HABILITADO" 
+				   TextColor="White" 
+				   FontSize="12" 
+				   VerticalTextAlignment="Start"
+				   HorizontalTextAlignment="Start"
+				   FontAttributes="Bold"
+				   CharacterSpacing="1"
+                   Padding="10,0"
+				   BackgroundColor="#77CD5A"
+				   >
+            </Label>
+
+            <Frame BackgroundColor="#6a5acd" 
+                   Padding="10,10" 
+				   HeightRequest="50" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1.6*"></ColumnDefinition>
+                        <ColumnDefinition Width="3.5*"></ColumnDefinition>
+                        <ColumnDefinition Width="1.3*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" FontSize="16" FontAttributes="Bold" TextColor="White"></Label>
+                    <Label Grid.Row="0" Grid.Column="1" FontSize="16" FontAttributes="Bold" TextColor="White">DR</Label>
+                    <Label Grid.Row="0" Grid.Column="2" FontSize="16" FontAttributes="Bold" TextColor="White">Rodovia</Label>
+                    <Label Grid.Row="0" Grid.Column="3" FontSize="16" FontAttributes="Bold" TextColor="White">Elemento</Label>
+                    <Label Grid.Row="0" Grid.Column="4" FontSize="16" FontAttributes="Bold" TextColor="White">Status</Label>
+                </Grid>
+            </Frame>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+            <ListView x:Name="listReceberDadosExterno" 
+					  ItemTapped="listReceberDadosExterno_ItemTapped" 
+					  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30" />
+                                    <ColumnDefinition Width="45" />
+                                    <ColumnDefinition Width="60" />
+                                    <ColumnDefinition Width="140" />
+                                    <ColumnDefinition Width="110" />
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Column="0" 
+									   Text="{Binding valorLista}" 
+									   Padding="5,5"
+									   HorizontalTextAlignment="Start" 
+									   VerticalTextAlignment="Center" 
+									   FontSize="12" 
+									   FontAttributes="Bold"/>
+                                <Label Grid.Column="1" 
+									   Text="{Binding regional_der}" 
+									   Padding="5,5"
+									   HorizontalTextAlignment="Start" 
+									   VerticalTextAlignment="Center" 
+									   FontSize="12" 
+									   FontAttributes="Bold"/>
+                                <Label Grid.Column="2"
+									   Text="{Binding rodovia}"
+									   Padding="5,5"
+									   HorizontalTextAlignment="Start" 
+									   VerticalTextAlignment="Center" 
+									   FontSize="12" 
+									   FontAttributes="Bold"
+									   />
+                                <Label Grid.Column="3" 
+									   Text="{Binding codigo}" 
+									   HorizontalTextAlignment="Start" 
+									   VerticalTextAlignment="Center" 
+									   FontSize="12" 
+									   FontAttributes="Bold"
+									   />
+                                <Label Grid.Column="4" 
+									   Text="{Binding status_interno}" 
+									   HorizontalTextAlignment="Center" 
+									   VerticalTextAlignment="Center" 
+									   FontSize="12" 
+									   FontAttributes="Bold"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Grid Padding="10,10" 
+                  VerticalOptions="Center" 
+                  HorizontalOptions="Center">
+
+                <Button Text="EDITAR ELEMENTO"
+						x:Name="btnEditarElemento"
+						BackgroundColor="#F9A73E"
+						WidthRequest="130"
+						HeightRequest="150"
+                        ImageSource="@drawable/editar.png"
+						Clicked="btnEditarElemento_Clicked"
+						TextColor="#151515"
+                        CornerRadius="20"
+                        FontAttributes="Bold"
+                        FontSize="11"
+                        Padding="15"
+                        Grid.Column="0"
+                        Grid.Row="0" />
+
+                <Button Text="ORDENAR"
+                        x:Name="btnOrdenarElemento"
+						BackgroundColor="Blue"
+						WidthRequest="130"
+						HeightRequest="150"                        
+						Clicked="btnOrdenarElemento_Clicked"
+						TextColor="WhiteSmoke"
+                        CornerRadius="20"
+                        FontAttributes="Bold"
+                        FontSize="15"
+                        Padding="15"
+                        Grid.Column="1"
+                        Grid.Row="0" />
+
+                    <Button Text="INCLUIR NOVO ELEMENTO"
+						x:Name="btnIncluirNovoElemento"
+						BackgroundColor="#7ea310"
+						WidthRequest="130"
+						HeightRequest="150"
+						Clicked="btnIncluirNovoElemento_Clicked"
+						TextColor="WhiteSmoke"
+                        ImageSource="@drawable/adicionar.png"
+                        CornerRadius="20"
+                        FontAttributes="Bold"
+                        FontSize="11"
+                        Padding="15"
+						Grid.Column="2"
+                        Grid.Row="0" />
+
+                <Button Text="Voltar"
+                    Margin="5"
+                    x:Name="btnVoltarInicio" 
+                    Clicked="btnVoltarInicio_Clicked"
+                    HeightRequest="60"
+                    WidthRequest="370"
+                    BorderColor="DarkGray"
+                    BorderWidth="1"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    TextColor="Gray"
+                    BackgroundColor="LightGray"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="1" />
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

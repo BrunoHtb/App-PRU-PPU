@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="rodovias.Pages.frmConfigDispositivo"
+             Title="CONFIG. DISPOSITIVO"
+             NavigationPage.HasBackButton="False"
+             >
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <StackLayout Padding="20,50,200,350" Spacing="5">
+                    <Label Text="ID DISPOSITIVO" 
+                       TextColor="#293845" 
+                       FontSize="20" 
+                       FontAttributes="Bold" 
+                       Padding="2">
+                    </Label>
+                    <Entry x:Name="txtIdDispositivoGravar" 
+                       Placeholder="Informe o id do disposito"
+                       ClearButtonVisibility="WhileEditing"
+                       Keyboard="Numeric"
+                       MaxLength="2"
+                       VerticalOptions="Start"
+                       HorizontalOptions="FillAndExpand"
+                       BackgroundColor="LightGray"
+                       >
+                    </Entry>
+                    <Label Text="NOME UTILIZADOR" 
+                       TextColor="#293845" 
+                       FontSize="20" 
+                       FontAttributes="Bold" 
+                       Padding="2">
+                    </Label>
+                    <Entry x:Name="txtNomeUtilizador" 
+                       Placeholder="Nome usuário"
+                       ClearButtonVisibility="WhileEditing"
+                       Keyboard="Text"
+                       MaxLength="15"
+                       VerticalOptions="Start"
+                       HorizontalOptions="FillAndExpand"
+                       BackgroundColor="LightGray"
+                       >
+                    </Entry>
+                </StackLayout>
+
+                <Button x:Name="btnGravarConfigDisp"
+					Text="Gravar"
+					BackgroundColor="#ffcc33"
+					TextColor="#293845"
+					HorizontalOptions="Center"
+					WidthRequest="200"
+					HeightRequest="60"
+					CornerRadius="10"
+					Margin="5"
+                    Clicked="btnGravarConfigDisp_Clicked"
+					>
+                </Button>
+                <Button x:Name="btnCancelarConfigDisp"
+					Text="Voltar"
+					BackgroundColor="#c3cfd9"
+					TextColor="#293845"
+					HorizontalOptions="Center"
+					WidthRequest="200"
+					HeightRequest="60"
+					CornerRadius="10"
+					Margin="5"
+                    Clicked="btnCancelarConfigDisp_Clicked"
+					>
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

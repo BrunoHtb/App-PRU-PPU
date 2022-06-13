@@ -1,0 +1,178 @@
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.deps.json
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.dll
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\rodovias.dll
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.pdb
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegCadastro.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegEditar.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegRelacao.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.dll
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\rodovias.dll
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.pdb
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPage.xaml.g.cs
+E:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.deps.json
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.dll
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\rodovias.dll
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.pdb
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegCadastro.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegEditar.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegRelacao.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPage.xaml.g.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.dll
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\rodovias.dll
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.pdb
+F:\@Dev\02.ENGENHARIA\02.app\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.deps.json
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.dll
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\rodovias.dll
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.pdb
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegEditar.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegRelacao.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPage.xaml.g.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.dll
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\rodovias.dll
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.pdb
+D:\Programas Desenvolvido Ezias_Davi\AppDispSeguranca\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.deps.json
+D:\AppXamarin\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.dll
+D:\AppXamarin\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\rodovias.dll
+D:\AppXamarin\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.pdb
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegEditar.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegRelacao.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPage.xaml.g.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.dll
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\rodovias.dll
+D:\AppXamarin\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.pdb
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.deps.json
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\rodovias.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\rodovias.pdb
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegEditar.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmDispSegRelacao.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPage.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\rodovias.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.pdb
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.deps.json
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.pdb
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.AssemblyReference.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPPU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPRU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPPU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPPURelacao.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPRURelacao.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPPU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPRU.xaml.g.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\PRU E PPU\rodovias\rodovias\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.pdb
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.deps.json
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.pdb
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPPU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPRU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPPU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPPURelacao.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPRURelacao.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPPU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPRU.xaml.g.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\Programas Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.pdb
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.deps.json
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\bin\Release\netstandard2.0\Rodovias PRU e PPU.pdb
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmConfigDispositivo.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\frmEnviarDados.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPPU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroEditarPRU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPPU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaCadastroNovoPRU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPPURelacao.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PaginaPRURelacao.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPPU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Pages\PopUpPRU.xaml.g.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfoInputs.cache
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.AssemblyInfo.cs
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\rodovias.csproj.CoreCompileInputs.cache
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\XamlC.stamp
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.dll
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\ref\Rodovias PRU e PPU.dll
+F:\Programas_Criados\PRU E PPU\Backup\rodovias\rodovias\rodovias\obj\Release\netstandard2.0\Rodovias PRU e PPU.pdb
