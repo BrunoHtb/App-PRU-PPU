@@ -4,6 +4,7 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
-*.pawn linguist-detectable=false
-*.pas linguist-detectable=false
+*.inc linguist-detectable=false
+*.props linguist-detectable=false
+*.xaml linguist-detectable=false
 *.s linguist-detectable=false
